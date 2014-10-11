@@ -11,7 +11,7 @@ e f g h 2
 ~~~
 
 ######OUTPUT SAMPLE:
-Print to stdout, the Mth element from the end of the list, one per line. If the index is larger than the list size or 0, ignore that input. E.g.
+Prints to stdout, the Mth element from the end of the list, one per line. If the index is larger than the list size, the program ignores that input. E.g.
 ~~~
 a
 g
